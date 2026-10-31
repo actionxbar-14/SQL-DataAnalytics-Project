@@ -23,7 +23,8 @@ The videos show the folders without numbers: `datasets` there is `01_datasets` h
 
 ## 🗺️ What you build
 
-![The project roadmap](02_docs/Project%20Roadmap.png)
+![The project roadmap]<img width="2141" height="916" alt="Project Roadmap" src="https://github.com/user-attachments/assets/e2aa2251-37a9-4cd8-a7ec-63e2d3be95cd" />
+
 
 The project has two parts, and the scripts follow them:
 
