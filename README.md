@@ -29,8 +29,6 @@ The primary objective is to analyze customer and product data, identify business
 ```text
 sql-data-analytics-project/
 │
-├── 00_setup/
-│   └── Setup guide and Docker configuration
 │
 ├── 01_datasets/
 │   ├── DataWarehouseAnalytics.bak
